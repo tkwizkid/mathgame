@@ -1,5 +1,4 @@
 # mathgame
-Code for math game
 
 import tkinter as tk
 import random
